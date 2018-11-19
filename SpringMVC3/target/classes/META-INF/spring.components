@@ -1,0 +1,5 @@
+#
+#Tue Oct 23 10:14:25 EEST 2018
+com.HomeController=org.springframework.stereotype.Component
+com.RootConfig=org.springframework.stereotype.Component
+com.WebConfig=org.springframework.stereotype.Component
